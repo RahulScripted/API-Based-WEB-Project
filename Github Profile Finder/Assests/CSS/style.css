@@ -67,6 +67,10 @@ body{
 }
 
 /* <------- Card ------> */
+#profileContainer {
+    width: 100%;
+    transition: all 0.4s ease-in;
+}
 .profileBox{
     margin: auto;
     padding: 4rem 2rem 2rem;
